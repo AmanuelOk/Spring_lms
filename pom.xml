@@ -45,7 +45,7 @@
 			<version>${org.aspectj-version}</version>
 		</dependency>	
 		
-		<!-- Logging -->
+		<!-- Logging --> <!-- trigger demo for jenkins test --> 
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-api</artifactId>
